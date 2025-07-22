@@ -1,0 +1,7 @@
+
+	----------Contact details----------
+
+Student name: 	Student ID: 
+         jack,        44567
+         jill,        66533
+         john,        88896

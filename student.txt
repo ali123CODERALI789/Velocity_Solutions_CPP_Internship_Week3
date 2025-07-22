@@ -1,0 +1,9 @@
+
+	----------Student details----------
+
+Student name: 	Student ID: 	Student grade: 	Student Marks: 
+         jack,        44567,           56,     Eligible
+         jill,        66533,           34, Not eligible
+         john,        88896,           89,     Eligible
+         joss,           66,           78,     Eligible
+         june,         6532,           90,     Eligible
